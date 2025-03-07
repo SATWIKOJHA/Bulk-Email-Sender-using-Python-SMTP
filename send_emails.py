@@ -12,7 +12,7 @@ df = pd.read_csv(csv_file)
 
 # Email credentials
 sender_email = "thesatwikojha@gmail.com"  # Replace with your email
-password = "alss qlrz wbcy tkwh"  # Replace with your App Password
+password = "xxxx xxxx xxxx" # Replace with your App Password
 
 # SMTP setup for Gmail
 smtp_server = "smtp.gmail.com"
